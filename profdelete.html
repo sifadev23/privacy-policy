@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>طلب حذف حسابك بتطبيق الاستاذ</title>
+    <title> طلب حذف حسابك في تطبيق الاستاذ</title>
     <style>
-        /* يمكنك إضافة أنماط CSS لتزيين الزر والصورة */
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+
         .delete-button {
             background-color: #f44336; /* لون أحمر للزر */
             color: white;
@@ -12,22 +18,29 @@
             text-decoration: none;
             display: inline-block;
             font-size: 16px;
-            margin: 4px 2px;
-            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        .image-container {
+            max-width: 300px;
+            margin: 20px auto;
+        }
+
+        @media (max-width: 768px) {
+            /* تنسيق خاص بالهواتف المحمولة */
+            .image-container {
+                max-width: 100%;
+            }
         }
     </style>
 </head>
 <body>
-
-<h2> طلب حذف الحساب الخاص بتطبيق الاستاذ</h2>
-
-<p>هل ترغب في حذف حسابك والبيانات المرتبطة به؟</p>
-
-<button class="delete-button">حذف الحساب</button>
-
-<p>للحصول على مزيد من التفاصيل حول عملية الحذف، يرجى الاطلاع على الصورة التالية:</p>
-
-<img src="صورة_شاشة_توضيحية.png" alt="طريقة حذف الحساب">
-
+    <h2>هل تريد حذف حسابك في تطبيق الاستاذ؟</h2>
+    <p>بالضغط على الزر أدناه، ستقوم بطلب حذف حسابك وجميع البيانات المرتبطة به.</p>
+    <button class="delete-button">حذف الحساب</button>
+    <div class="image-container">
+        <img src="صورة_شاشة_توضيحية.png" alt="طريقة حذف الحساب">
+    </div>
 </body>
 </html>
