@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Ultra Music Player</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+        h1, h2 { color: #333; }
+        p { margin-bottom: 1em; }
+        footer { text-align: center; font-size: 0.9em; color: #777; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Fossify Music Player</h1>
+    <p><strong>Last updated: November 22, 2024</strong></p>
+
+    <h2>Information Collection and Use</h2>
+    <p>Ultra Music Player is dedicated to safeguarding your privacy and does not collect any personal information or data during your use of our app. The application functions entirely offline, and no user data is transmitted or shared with any third parties.</p>
+
+    <h2>Log Data</h2>
+    <p>We clarify that >Ultra Music Player does not collect any log data. Our commitment to your privacy includes the non-collection of any personal or technical information while you use the app.</p>
+
+    <h2>Cookies</h2>
+    <p>>Ultra Music Player does not use cookies. The application avoids any tracking mechanisms and does not store any data on your device.</p>
+
+    <h2>Security</h2>
+    <p>Your trust is essential to us. As Fossify Music Player does not collect any personal information or interact with third-party services, we ensure there are no security risks related to the storage or transmission of your data.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may periodically update our Privacy Policy. We encourage users to regularly review this document for any changes. Any modifications will be notified by posting the updated Privacy Policy on this page.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or suggestions regarding our Privacy Policy or wish to contribute to the open-source development of Fossify Music Player, please contact us at <a href="mailto:sifadev23@gmail.com">sifadev23@gmail.com</a>. We value your support and commitment to open-source values.</p>
+
+    <footer>
+        <p>Thank you for using >Ultra Music Player. We hope you enjoy the app with full confidence in the privacy measures we have taken.</p>
+    </footer>
+</body>
+</html>
